@@ -2,7 +2,7 @@ import os
 import yfinance as yf
 import pandas as pd
 
-def fetch_tesla_data(start_date="2010-01-01", end_date="2023-12-31"):
+def fetch_tesla_data(start_date="2010-01-01", end_date="2024-12-01"):
     data_folder = "data"
 
     print(f"Fetching Tesla stock data from {start_date} to {end_date}...")
