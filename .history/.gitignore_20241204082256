@@ -1,0 +1,8 @@
+models/
+*.h5
+*.npy
+venv/
+.Venv/
+ENV/
+env/
+__pycache__/
