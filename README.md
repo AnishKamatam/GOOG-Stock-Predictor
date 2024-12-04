@@ -1,1 +1,1 @@
-# GOOG-Stock-Predictor
+# S&P500-Stock-Predictor
